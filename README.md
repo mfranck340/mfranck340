@@ -11,7 +11,7 @@
 💻 Computer engineer <br>
 🔒 Master's student in Cybersecurity (UAH) <br>
 🖥️ Student at 42 Madrid Telefónica <br>
-⚡ I have a passion for learning and I am always eager to expand my knowledge.
+⚡ I have a passion for learning and I am always eager to expand my knowledge. <br>
 🫣 I have a natural curiosity about topics I'm unfamiliar with.
 
 
