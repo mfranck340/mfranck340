@@ -9,7 +9,7 @@
 🖥️ Student at 42 Madrid Telefónica
 
 
-## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG92czA2NGRpNzJsYmo5d3JveGo5aTVsd3Q3cjFqZ3o2ZDF1ZG5xMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/faWsfcwkzbfZQ3HOac/giphy.webp" width ="25"><b> Socials:</b>
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG92czA2NGRpNzJsYmo5d3JveGo5aTVsd3Q3cjFqZ3o2ZDF1ZG5xMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/faWsfcwkzbfZQ3HOac/giphy.webp" width ="35"><b> Socials:</b>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/franck.fierro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/franckfierro) 
 
 
@@ -18,10 +18,6 @@
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats:</b>
-
-<!--![](https://github-readme-stats.vercel.app/api?username=mfranck340&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mfranck340&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mfranck340&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)-->
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfranck340&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
