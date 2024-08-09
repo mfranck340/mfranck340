@@ -1,6 +1,6 @@
-<h1 align="center"><b>Hi , I'm Franck Fierro </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--<h1 align="center"><b>Hi , I'm Franck Fierro </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>-->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;I'm+a+Computer+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=50&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;I'm+a+Computer+Engineer)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="img/banner.png" alt="banner profile">
@@ -11,7 +11,8 @@
 💻 Computer engineer <br>
 🔒 Master's student in Cybersecurity (UAH) <br>
 🖥️ Student at 42 Madrid Telefónica <br>
-⚡ 
+⚡ I have a passion for learning and I am always eager to expand my knowledge.
+🫣 I have a natural curiosity about topics I'm unfamiliar with.
 
 
 ## 📱 Socials:
