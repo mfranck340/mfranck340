@@ -1,9 +1,9 @@
 <h1 align="center"><b>Hi , I'm Franck Fierro </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;I'm+a+Computer+engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;I'm+a+Computer+Engineer)](https://git.io/typing-svg)
 
 
-## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBkZ3p3Y3c1MW9jMjM5NTFwZDV2YjNjYWZmaHBhbzBucjZpMmdhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SUj4A8XaA5JxTM58Yq/giphy.webp" width ="40"><b> About Me:</b>
+## <img src="https://www.flaticon.es/icono-gratis/hacker_924915" width ="40"><b> About Me:</b>
 💻 Computer engineer <br>
 🔒 Master's student in Cybersecurity (UAH) <br>
 🖥️ Student at 42 Madrid Telefónica
@@ -46,9 +46,14 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats:</b>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfranck340&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+<div align=center>
+ <div align="center">
+  <img width=390 height=160 src="https://github-readme-streak-stats.herokuapp.com/?user=mfranck340&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=mfranck340&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfranck340&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+
 
 
 <!--## ✍️ Random Dev Quote
