@@ -1,6 +1,4 @@
-<!--<h1 align="center"><b>Hi , I'm Franck Fierro </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>-->
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=50&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;I'm+a+Computer+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=50&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;I'm+a+Computer+Engineer+;);Always+learning+...)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="img/banner.png" alt="banner profile">
@@ -8,9 +6,9 @@
 
 
 ## 💡 About Me:
-💻 Computer engineer <br>
+💻 Computer Engineer <br>
 🔒 Master's student in Cybersecurity (UAH) <br>
-🖥️ Student at 42 Madrid Telefónica <br>
+🖥️ Student at 42 Madrid Telefónica (username: ffierro-) <br>
 ⚡ I have a passion for learning and I am always eager to expand my knowledge. <br>
 🫣 I have a natural curiosity about topics I'm unfamiliar with.
 
@@ -58,9 +56,6 @@
     <br/>
     <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfranck340&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
-<!--## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mfranck340&icon=0&color=10)](https://visitcount.itsvg.in)
