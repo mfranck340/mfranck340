@@ -2,18 +2,23 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;I'm+a+Computer+Engineer)](https://git.io/typing-svg)
 
+<div align="center">
+  <img src="img/banner.png" alt="banner profile">
+</div>
 
-## 💡About Me:
+
+## 💡 About Me:
 💻 Computer engineer <br>
 🔒 Master's student in Cybersecurity (UAH) <br>
-🖥️ Student at 42 Madrid Telefónica
+🖥️ Student at 42 Madrid Telefónica <br>
+⚡ 
 
 
-## 📱Socials:
+## 📱 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/franck.fierro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/franckfierro) 
 
 
-## 🧠Tech Stack:
+## 🧠 Tech Stack:
 <p align="center">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -44,7 +49,7 @@
 </p>
 
 
-## 📊Github Stats:
+## 📊 Github Stats:
 
 <div align=center>
     <img width=390 src="https://github-readme-stats.vercel.app/api?username=mfranck340&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="readme stats" />
