@@ -3,17 +3,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;I'm+a+Computer+Engineer)](https://git.io/typing-svg)
 
 
-## <img src="https://iconos8.es/icon/20523/light-on" width ="40"><b> About Me:</b>
+## 💡About Me:
 💻 Computer engineer <br>
 🔒 Master's student in Cybersecurity (UAH) <br>
 🖥️ Student at 42 Madrid Telefónica
 
 
-## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG92czA2NGRpNzJsYmo5d3JveGo5aTVsd3Q3cjFqZ3o2ZDF1ZG5xMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/faWsfcwkzbfZQ3HOac/giphy.webp" width ="40"><b> Socials:</b>
+## 📱Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/franck.fierro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/franckfierro) 
 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack:</b>
+## 🧠Tech Stack:
 <p align="center">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -44,17 +44,14 @@
 </p>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats:</b>
+## 📊Github Stats:
 
 <div align=center>
- <div align="center">
-  <img width=390 height=160 src="https://github-readme-streak-stats.herokuapp.com/?user=mfranck340&count_private=true&theme=radical&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=mfranck340&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfranck340&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    <img width=390 src="https://github-readme-stats.vercel.app/api?username=mfranck340&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="readme stats" />
+    <img width=390 height=160 src="https://github-readme-streak-stats.herokuapp.com/?user=mfranck340&count_private=true&theme=radical&border_radius=10" alt="streak stats"/>
+    <br/>
+    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfranck340&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
-
 
 <!--## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)-->
